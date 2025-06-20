@@ -14,4 +14,4 @@ Loyiha logikasini quyidagi havoladan ko'rish mumkin
 ## Database design
 
 Loyiha ma'lumotlar bazasining to'liq tuzilishini ko'rish [bu yerdan](https://dbdiagram.io/d/6854f907f039ec6d3617cf41)
-![Database design](readme_images/Untitled.png "database design")
+![Database design](readme_images/Untitled (1).png "database design")
