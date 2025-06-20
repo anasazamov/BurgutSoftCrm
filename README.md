@@ -8,7 +8,8 @@ Ushbu tizim kampaniya resurslarni rejalashtirish va mijozlar bilan ishlash uchun
 - Loyihani sotish
 
 ## Flowchart
-![Flowchart](readme_images/flowchart.png "Flowchart")
+Loyiha logikasini quyidagi havoladan ko'rish mumkin
+[Flowchart](https://miro.com/app/live-embed/uXjVImEuBUA=/?embedMode=view_only_without_ui&moveToViewport=316%2C-1043%2C3629%2C1752&embedId=371941446662 "Flowchart")
 
 ## Database design
 
