@@ -7,3 +7,5 @@ Ushbu tizim kampaniya resurslarni rejalashtirish va mijozlar bilan ishlash uchun
 - Loyihani o'rganib chiqish
 - Loyihani sotish
 
+## Flowchart
+![alt text](flowchart.png "Title")
